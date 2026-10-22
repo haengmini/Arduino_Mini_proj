@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
+# Keep the large source video locally; publish the compressed MP4.
+Joystick_Kart/Joystick_Kart_demo.MOV
