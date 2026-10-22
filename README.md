@@ -16,8 +16,6 @@ Arduino UNO와 센서·LED·조이스틱을 활용한 미니 프로젝트 모음
 
 ![조이스틱 카트 시뮬레이터 플레이 GIF](Joystick_Kart/Joystick_Kart_demo.gif)
 
-시연 영상의 중간 **12~20초 구간**을 추출한 반복 재생 GIF입니다. README에서 바로 볼 수 있도록 폭 640px, 초당 10프레임으로 변환했습니다. 원본 MOV와 압축 MP4는 로컬에 보존하고 저장소에는 GIF를 포함합니다.
-
 ### 구성과 배선
 
 - Raspberry Pi 5 + HDMI 디스플레이 + USB 터치
