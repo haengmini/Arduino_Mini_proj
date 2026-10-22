@@ -5,3 +5,7 @@ __pycache__/
 Thumbs.db
 # Keep the large source video locally; publish the compressed MP4.
 Joystick_Kart/Joystick_Kart_demo.MOV
+
+# Local video and thumbnail backups; README uses the animated GIF.
+Joystick_Kart/Joystick_Kart_demo.mp4
+Joystick_Kart/Joystick_Kart_preview.jpg

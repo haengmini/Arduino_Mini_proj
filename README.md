@@ -12,13 +12,11 @@ Arduino UNO와 센서·LED·조이스틱을 활용한 미니 프로젝트 모음
 
 ## 1. Joystick Kart
 
-### 시연 영상
+### 플레이 미리보기
 
-[![카트 시뮬레이터 시연 영상](Joystick_Kart/Joystick_Kart_preview.jpg)](Joystick_Kart/Joystick_Kart_demo.mp4)
+![조이스틱 카트 시뮬레이터 플레이 GIF](Joystick_Kart/Joystick_Kart_demo.gif)
 
-**▶ 위 이미지를 클릭하면 시연 영상 파일 페이지로 이동합니다.** [시연 영상 MP4 보기 / 다운로드](Joystick_Kart/Joystick_Kart_demo.mp4)
-
-원본 MOV는 로컬에 보존하고, 저장소에는 용량을 줄인 MP4를 포함했습니다. README 안에서 영상이 직접 재생되지 않는 환경에서는 링크를 열거나 다운로드해 주세요.
+시연 영상의 중간 **12~20초 구간**을 추출한 반복 재생 GIF입니다. README에서 바로 볼 수 있도록 폭 640px, 초당 10프레임으로 변환했습니다. 원본 MOV와 압축 MP4는 로컬에 보존하고 저장소에는 GIF를 포함합니다.
 
 ### 구성과 배선
 
@@ -144,8 +142,7 @@ Joystick_Kart/
   JoystickDashboard/JoystickDashboard.ino
   kart_simulator.py
   install_kart_launcher.sh
-  Joystick_Kart_demo.mp4
-  Joystick_Kart_preview.jpg
+  Joystick_Kart_demo.gif
 Parking_Sensor/
   Parking_Sensor.ino
   아두이노_Parking_Sensor.jpg
